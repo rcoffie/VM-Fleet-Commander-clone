@@ -1,8 +1,6 @@
 # Automated Deployment of Windows VMs on Azure Using Bicep and GitHub Actions
 
-**Project Description:**  
-
-**Title:** Automated Deployment of Windows VMs on Azure Using Bicep and GitHub Actions  
+**Project Description:** 
 
 **Objective:**  
 This project aims to automate the deployment of Windows Virtual Machines (VMs) on Microsoft Azure using **Bicep** (Infrastructure-as-Code) and **GitHub Actions** for CI/CD. The solution ensures consistent, repeatable, and scalable VM provisioning while minimizing manual intervention.  
